@@ -62,16 +62,19 @@ body {
     padding-right: 50%;
 }
 
-.about-skills {
-    padding-right: 50%;
+.flex-container {
+    display: flex;
+    justify-content:space-between;
 }
 
 .about-skills ul{
     list-style: none;
-    padding-left: 0px;
+    padding-left: 0mm;
 }
 
 .about-interests ul{
     list-style: none;
+    padding-left: 0mm;
 }
+
 
